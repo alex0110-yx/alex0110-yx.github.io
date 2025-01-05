@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotic Research Engineering in Samsung R&D Institute China - Beijing (SRC-B)
+subtitle: Robotic Research Engineer in Samsung R&D Institute China - Beijing (SRC-B)
 
 profile:
   align: right
