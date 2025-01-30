@@ -37,7 +37,9 @@ Prior to my role at Samsung, I was a postdoctoral research assistant at the [Uni
         <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper]EHC-MM: Embodied Holistic Control for <br>Mobile Manipulation</figcaption>
     </figure>
     <figure style="display: inline-block; margin-right: 10px;">
-        <img src="../assets\gif\ASGrasp_Short.gif" alt="GIF4" style="max-height: 150px;">
-        <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper] ASGrasp: Generalizable Transparent <br>Object Reconstruction and Grasping</figcaption>
+        <a href="https://pku-epic.github.io/ASGrasp/" target="_blank">
+            <img src="../assets\gif\ASGrasp_Short.gif" alt="GIF4" style="max-height: 150px;">
+            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper] ASGrasp: Generalizable Transparent <br>Object Reconstruction and Grasping</figcaption>
+        </a>
     </figure>
 </div>
