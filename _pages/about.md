@@ -30,16 +30,20 @@ Prior to my role at Samsung, I was a postdoctoral research assistant at the [Uni
 
 <div style="overflow-x: auto; white-space: nowrap; margin: 0 auto; padding: 10px;">
     <figure style="display: inline-block; margin-right: 10px;">
-        <img src="../assets\gif\Robot_GPT_Short.gif" alt="GIF1" style="max-height: 150px;">
-        <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper] RobotGPT: Robot Manipulation Learning<br> from ChatGPT</figcaption>
+        <a href="https://arxiv.org/pdf/2312.01421" target="_blank">
+            <img src="../assets\gif\Robot_GPT_Short.gif" alt="GIF1" style="max-height: 150px;">
+            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper] RobotGPT: Robot Manipulation Learning<br> from ChatGPT</figcaption>
+        </a>
     </figure>
     <figure style="display: inline-block; margin-right: 10px;">
         <img src="../assets\gif\New_Retail_Short.gif" alt="GIF2" style="max-height: 150px;">
         <figcaption style="text-align: center; font-size: 12px; color: #555;">[Demo] Robotic Picking for the <br>New Retail Scenario<br></figcaption>
     </figure>
     <figure style="display: inline-block; margin-right: 10px;">
-        <img src="../assets\gif\Holisitic_Control_Short.gif" alt="GIF3" style="max-height: 150px;">
-        <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper]EHC-MM: Embodied Holistic Control for <br>Mobile Manipulation</figcaption>
+        <a href="https://arxiv.org/pdf/2409.08527" target="_blank">
+            <img src="../assets\gif\Holisitic_Control_Short.gif" alt="GIF3" style="max-height: 150px;">
+            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper]EHC-MM: Embodied Holistic Control for <br>Mobile Manipulation</figcaption>
+        </a>
     </figure>
     <figure style="display: inline-block; margin-right: 10px;">
         <a href="https://pku-epic.github.io/ASGrasp/" target="_blank">
