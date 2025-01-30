@@ -5,7 +5,6 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: resume_yixiang.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: If you would like to download my resume, please click the PDF button on the right. Thanks very much!
 ---
+![](../assets/img/resume_yixiang_page-0001.jpg)
