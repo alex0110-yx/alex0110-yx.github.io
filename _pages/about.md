@@ -52,3 +52,6 @@ Prior to my role at Samsung, I was a postdoctoral research assistant at the [Uni
         </a>
     </figure>
 </div>
+
+<br>
+<br>
