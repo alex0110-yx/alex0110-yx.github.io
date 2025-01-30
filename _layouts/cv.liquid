@@ -23,6 +23,9 @@ layout: default
 
     <article>
       <div class="cv">
+        {% if page.image %}
+          <img src="{{ page.image | prepend: 'assets/images/' | relative_url }}" alt=" " class="cv-image">
+        {% endif %}
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
           <div class="card mt-3 p-3">
