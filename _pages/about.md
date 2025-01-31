@@ -36,8 +36,10 @@ Prior to my role at Samsung, I was a postdoctoral research assistant at the [Uni
         </a>
     </figure>
     <figure style="display: inline-block; margin-right: 10px;">
-        <img src="../assets\gif\New_Retail_Short.gif" alt="GIF2" style="max-height: 150px;">
-        <figcaption style="text-align: center; font-size: 12px; color: #555;">[Demo] Robotic Picking for the <br>New Retail Scenario<br></figcaption>
+        <a href="https://alex0110-yx.github.io/projects/1_project/" target="_blank">
+            <img src="../assets\gif\New_Retail_Short.gif" alt="GIF2" style="max-height: 150px;">
+            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Demo] Robotic Picking for the <br>New Retail Scenario<br></figcaption>
+        </a>
     </figure>
     <figure style="display: inline-block; margin-right: 10px;">
         <a href="https://arxiv.org/pdf/2409.08527" target="_blank">
