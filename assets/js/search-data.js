@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My recent projects aimed at commercialization",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -63,9 +63,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-robotic-picking-for-new-retail",
+          title: 'Robotic Picking for New Retail',
+          description: "This project is designed for future unmanned supermarket pick-up.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
