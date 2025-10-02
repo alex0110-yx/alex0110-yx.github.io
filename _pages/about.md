@@ -24,7 +24,7 @@ I currently serve as a **Research Scientist** at [**JDT(京东科技)**](https:/
 ## Recent Project
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 0 auto; padding: 10px; max-width: 1200px;">
-    <figure style="display: inline-block; width: 25%; margin: 0 1.5% 15px; text-align: center;">
+    <figure style="display: inline-block; width: 25%; margin: 0 3.5% 15px; text-align: center;">
         <a href="https://sevenfo.github.io/BiDexVLA/" target="_blank">
             <img src="../assets/gif/BiDexVLA.gif" alt="GIF1" style="max-height: 150px;">
             <figcaption style="font-size: 12px; color: #555;">[Paper] BiDexVLA: A Hybrid Framework for Fast and Robust Bimanual Dexterous Grasping </figcaption>
