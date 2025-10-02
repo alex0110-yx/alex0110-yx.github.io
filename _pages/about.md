@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 Hello! I'm Yixiang Jin, a passionate **researcher and engineer in the field of robotics**. I hold a Ph.D. in Robotics from the [University of Sheffield](https://www.sheffield.ac.uk/), where I was awarded the [RAIN](https://uomrobotics.com/collaborations/rain/) project scholarship. After I graduated with my Ph.D., I was postdoctoral research assistant at the [University of Bristol](https://www.bristol.ac.uk/)
 
-I currently serve as a **Research Scientist** at [**JDT(京东科技)**](https://www.jdt.com.cn/), where I am responsible for the development and deployment of advanced bimanual manipulation systems. Prior to my role at JDT, I am a Robotics Scientist at [Samsung R&D Institute China - Beijing](https://research.samsung.com/src-b) from September 2022. Since 2025, I lead the R&D of [bimanual VLA for humanoid robots](https://sevenfo.github.io/BiDexVLA/).
+I currently serve as a **Research Scientist** at [**JDT(京东科技)**](https://www.jdt.com.cn/), where I am responsible for the development and deployment of advanced bimanual manipulation systems. Prior to my role at JDT, I am a Robotics Scientist at [Samsung R&D Institute China - Beijing](https://research.samsung.com/src-b) from September 2022. Since 2025, I lead the R&D of [bimanual VLA for humanoid robots](https://sevenfo.github.io/BiDexVLA/) in SRC_B.
 
 **Please find my [CV](https://alex0110-yx.github.io/cv/) and feel free to reach out if you’re interested in collaborating or discussing any topics related to robotics!**
 
