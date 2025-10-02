@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotic Researcher in Samsung R&D Institute China - Beijing (SRC-B)
+subtitle: Robot Bimanul Manipuation Research Scientist in JDT(京东科技)
 
 profile:
   align: right
@@ -15,53 +15,13 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+Hello! I'm Yixiang Jin, a passionate **researcher and engineer in the field of robotics**. I hold a Ph.D. in Robotics from the [University of Sheffield](https://www.sheffield.ac.uk/), where I was awarded the [RAIN](https://uomrobotics.com/collaborations/rain/) project scholarship. After I graduated with my Ph.D., I was postdoctoral research assistant at the [University of Bristol](https://www.bristol.ac.uk/)
 
-Hello! I’m Yixiang Jin, a passionate **researcher and engineer in the field of robotics**. I hold a Ph.D. in Robotics from the [University of Sheffield](https://www.sheffield.ac.uk/), where I was awarded the [RAIN](https://uomrobotics.com/collaborations/rain/) project scholarship.
-
-My primary interests lie in humanoid robot manipulation, vision-language-action model  for robots. Professionally, I am a  am a Robotics Engineer at [Samsung R&D Institute China - Beijing](https://research.samsung.com/src-b) since September 2022. There, I have been involved in **generating large-scale robot manipulation datasets** for training large models and have also participated in internal competitions, such as the robot kitchen organization challenge, where I focused on grasp pose generation and planning.
-
-Prior to my role at JD and Samsung, I was a postdoctoral research assistant at the [University of Bristol](https://www.bristol.ac.uk/), where I worked on visual modules for detecting defects in wind turbine blades using drones. I enjoy exploring new technologies and staying connected with the latest advancements in the field. 
+I currently serve as a **Research Scientist** at [**JDT(京东科技)**](https://www.jdt.com.cn/), where I am responsible for the development and deployment of advanced bimanual manipulation systems. Prior to my role at JDT, I am a Robotics Scientist at [Samsung R&D Institute China - Beijing](https://research.samsung.com/src-b) from September 2022. Since 2025, I lead the R&D of [bimanual VLA for humanoid robots](https://sevenfo.github.io/BiDexVLA/).
 
 **Please find my [CV](https://alex0110-yx.github.io/cv/) and feel free to reach out if you’re interested in collaborating or discussing any topics related to robotics!**
 
-
-
 ## Recent Project
-
-<!-- <div style="overflow-x: auto; white-space: nowrap; margin: 0 auto; padding: 10px;">
-    <figure style="display: inline-block; margin-right: 10px;">
-        <img src="../assets\gif\DexGraspVLA.gif" alt="GIF1" style="max-height: 150px;">
-            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Coming Soon] Dexterous Grasping VLA with <br> Houmanoid Robot </figcaption>
-    </figure>
-    <figure style="display: inline-block; margin-right: 10px;">
-        <img src="../assets\gif\task_hang_cup_1.gif" alt="GIF1" style="max-height: 150px;">
-            <figcaption style="text-align: center; font-size: 12px; color: #555;">[DataGeneration] Large-Scale Robot Manipulation <br>  Sythitic Data Generation</figcaption>
-    </figure>
-    <figure style="display: inline-block; margin-right: 10px;">
-        <a href="https://arxiv.org/pdf/2312.01421" target="_blank">
-            <img src="../assets\gif\Robot_GPT_Short.gif" alt="GIF1" style="max-height: 150px;">
-            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper] RobotGPT: Robot Manipulation Learning<br> from ChatGPT</figcaption>
-        </a>
-    </figure>
-    <figure style="display: inline-block; margin-right: 10px;">
-        <a href="https://alex0110-yx.github.io/projects/1_project/" target="_blank">
-            <img src="../assets\gif\New_Retail_Short.gif" alt="GIF2" style="max-height: 150px;">
-            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Demo] Robotic Picking for the <br>New Retail Scenario<br></figcaption>
-        </a>
-    </figure>
-    <figure style="display: inline-block; margin-right: 10px;">
-        <a href="https://arxiv.org/pdf/2409.08527" target="_blank">
-            <img src="../assets\gif\Holisitic_Control_Short.gif" alt="GIF3" style="max-height: 150px;">
-            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper]EHC-MM: Embodied Holistic Control for <br>Mobile Manipulation</figcaption>
-        </a>
-    </figure>
-    <figure style="display: inline-block; margin-right: 10px;">
-        <a href="https://pku-epic.github.io/ASGrasp/" target="_blank">
-            <img src="../assets\gif\ASGrasp_Short.gif" alt="GIF4" style="max-height: 150px;">
-            <figcaption style="text-align: center; font-size: 12px; color: #555;">[Paper] ASGrasp: Generalizable Transparent <br>Object Reconstruction and Grasping</figcaption>
-        </a>
-    </figure>
-</div> -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 0 auto; padding: 10px; max-width: 1200px;">
     <figure style="display: inline-block; width: 25%; margin: 0 1.5% 15px; text-align: center;">
