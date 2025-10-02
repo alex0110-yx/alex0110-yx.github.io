@@ -18,9 +18,9 @@ social: false # includes social icons at the bottom of the page
 
 Hello! I’m Yixiang Jin, a passionate **researcher and engineer in the field of robotics**. I hold a Ph.D. in Robotics from the [University of Sheffield](https://www.sheffield.ac.uk/), where I was awarded the [RAIN](https://uomrobotics.com/collaborations/rain/) project scholarship.
 
-My primary interests lie in humanoid robot manipulation, multimodal large models for robots. Professionally, I am a Robotics Engineer at [Samsung R&D Institute China - Beijing](https://research.samsung.com/src-b) since September 2022. There, I have been involved in **generating large-scale robot manipulation datasets** for training large models and have also participated in internal competitions, such as the robot kitchen organization challenge, where I focused on grasp pose generation and planning.
+My primary interests lie in humanoid robot manipulation, vision-language-action model  for robots. Professionally, I am a  am a Robotics Engineer at [Samsung R&D Institute China - Beijing](https://research.samsung.com/src-b) since September 2022. There, I have been involved in **generating large-scale robot manipulation datasets** for training large models and have also participated in internal competitions, such as the robot kitchen organization challenge, where I focused on grasp pose generation and planning.
 
-Prior to my role at Samsung, I was a postdoctoral research assistant at the [University of Bristol](https://www.bristol.ac.uk/), where I worked on visual modules for detecting defects in wind turbine blades using drones. I enjoy exploring new technologies and staying connected with the latest advancements in the field. 
+Prior to my role at JD and Samsung, I was a postdoctoral research assistant at the [University of Bristol](https://www.bristol.ac.uk/), where I worked on visual modules for detecting defects in wind turbine blades using drones. I enjoy exploring new technologies and staying connected with the latest advancements in the field. 
 
 **Please find my [CV](https://alex0110-yx.github.io/cv/) and feel free to reach out if you’re interested in collaborating or discussing any topics related to robotics!**
 
@@ -64,9 +64,11 @@ Prior to my role at Samsung, I was a postdoctoral research assistant at the [Uni
 </div> -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 0 auto; padding: 10px; max-width: 1200px;">
-    <figure style="display: inline-block; width: 30%; margin: 0 1.5% 15px; text-align: center;">
-        <img src="../assets/gif/DexGraspVLA.gif" alt="GIF1" style="max-height: 150px;">
-        <figcaption style="font-size: 12px; color: #555;">[Coming Soon] Dexterous Grasping VLA with <br> Houmanoid Robot </figcaption>
+    <figure style="display: inline-block; width: 25%; margin: 0 1.5% 15px; text-align: center;">
+        <a href="https://sevenfo.github.io/BiDexVLA/" target="_blank">
+            <img src="../assets/gif/bidexvla.gif" alt="GIF1" style="max-height: 150px;">
+            <figcaption style="font-size: 12px; color: #555;">[Paper] BiDexVLA: A Hybrid Framework for Fast and Robust Bimanual Dexterous Grasping </figcaption>
+        </a> 
     </figure>
     <figure style="display: inline-block; width: 30%; margin: 0 1.5% 15px; text-align: center;">
         <img src="../assets/gif/task_hang_cup_1.gif" alt="GIF1" style="max-height: 150px;">
